@@ -20,7 +20,6 @@ Further reading on ADB can be found here: https://developer.android.com/studio/c
 4. Connect your Samsung Android phone to your computer with USB debugging enabled. Verify that adb sees your device and the daemon is running with the following command
     - `adb devices`
     - You should see the device name listed as a "device".
-      - ![Alt text](image.png)
     - At this point your device should prompt you to accept USB debugging from your computer. Tap "Allow".
     
 5. Enter your device's shell with the following command
