@@ -39,4 +39,5 @@ Use :
   
 For example to reinstall Sound Quality and Effects, 
  - `pm install-existing --user 0 com.sec.android.app.soundalive`
+ - `pm install-existing --user 0 com.sec.android.app.myfiles`
 
